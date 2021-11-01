@@ -1,3 +1,4 @@
+![GUI Progress Bars](https://i.imgur.com/37nhEK3.png)
 # PROGRESS BARS
 Project files for the [MCreator](https://mcreator.net/) example and tutorial.
 
@@ -22,6 +23,3 @@ Procedures have been built by NorthWestTrees Gaming.
 
 ## TUTORIALS
 * [YouTube: GUI Progress Bars](https://youtu.be/fA4c6d4ydCc) - Published on 2021-03-26
-
-## GALLERY
-![GUI Progress Bars](https://i.imgur.com/37nhEK3.png)
